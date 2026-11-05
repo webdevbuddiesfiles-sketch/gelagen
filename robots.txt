@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gelagen.onrender.com/sitemap.xml
